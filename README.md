@@ -10,4 +10,4 @@ Basic Maven Project - Starter project to learn TDD
 
 ## use
 
-- download/clone the this repo and import it as a maven project in our favourite IDE (Eclipse/IntelliJ IDEA)
+- Download/clone this repo and import it as a maven project in our favourite IDE (Eclipse/IntelliJ IDEA) to start coding!
